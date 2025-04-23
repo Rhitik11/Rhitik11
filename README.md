@@ -4,7 +4,7 @@
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
-<p align="left"> <a href="https://x.com/rhitik_thavai?s=21" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="RhitikThavai" /></a> </p>
+
 
 - 🔭 I’m currently learning **Typescript & Nextjs**
 

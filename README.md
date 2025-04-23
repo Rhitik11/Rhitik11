@@ -4,9 +4,7 @@
 <img align="right"  alt="Coding" width="560" src="https://i.pinimg.com/originals/3e/9d/52/3e9d52bc38fa287a4cf10dcf8139076d.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek-panchal&label=Profile%20views&color=0e75b6&style=flat" alt="vivek-panchal" /> </p>
-
-<p align="left"> <a href="https://x.com/rhitik_thavai?s=21" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="vivekpanchaal" /></a> </p>
+<p align="left"> <a href="https://x.com/rhitik_thavai?s=21" target="blank"><img src="https://img.shields.io/twitter/follow/vivekpanchaal?logo=twitter&style=for-the-badge" alt="RhitikThavai" /></a> </p>
 
 - 🔭 I’m currently learning **Typescript & Nextjs**
 
@@ -20,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vivekpanchaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vivekpanchaal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vivekpanchal2608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek panchal" height="30" width="40" /></a>
-<a href="https://instagram.com/vivekpaanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vivekpaanchal" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vivekpanchal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vivekpanchal" height="30" width="40" /></a>
+<a href="https://x.com/rhitik_thavai?s=21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rhitik Thavai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rhitik-thavai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rhitik Thavai" height="30" width="40" /></a>
+<a href="https://www.instagram.com/explo.rik?igsh=MTJ6NHA5OG1vMmtpcw%3D%3D&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rhitik Thavai" height="30" width="40" /></a>
+
 </p>
 <br>
 <div id="badges">

@@ -5,9 +5,6 @@
 <h1 align="center">Hi 👋, I'm Rhitik Thavai</h1>
 <h3 align="center">A passionate Python-Django developer from India 🇮🇳 </h3
 
-
-
-## 📜 About Me
 # 👋 Hi, I'm Rhitik Thavai
 
 🎯 A passionate **Python Django Developer** based in **Panvel, Maharashtra**  

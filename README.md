@@ -1,8 +1,10 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Rhitik Thavai</h1>
 <h3 align="center">A passionate Python-Django developer from India 🇮🇳 </h3>
-<img align="right"  alt="Coding" width="560" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
+<div align="center">
+  <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" width="700" height="400" alt="Coding Animation" />
+</div>
 
 
 

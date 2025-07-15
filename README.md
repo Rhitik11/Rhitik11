@@ -7,15 +7,34 @@
 
 
 
-- 🔭 I’m currently learning **Typescript & Nextjs**
+## 📜 About Me
+# 👋 Hi, I'm Rhitik Thavai
 
-- 🔭 I’m currently Looking for **Remote SDE Roles**
+🎯 A passionate **Python Django Developer** based in **Panvel, Maharashtra**  
+🎓 Completed **MSc in Information Technology**  
+🚀 Currently building dynamic web applications using **Python, Django, and modern web tools**
 
-- 💬 Ask me about **MERN, JavaScript, C++, DSA**
+---
 
-- 📫 How to reach me **info.rhitikthavai@gmail.com**
+## 🛠️ Tech Stack
 
-- 📄 Know about my experiences []()
+- **Languages:** Python, HTML, CSS, JavaScript, SQL  
+- **Frameworks & Tools:** Django, Django Rest Framework, Bootstrap  
+- **Database:** SQLite3, MySQL  
+- **Tools:** Git, GitHub, VS Code, Postman, Vercel, Netlify  
+- **Learning:** Flask, Docker, AWS
+
+---
+
+## 💼 Current Role
+
+I’m currently working as a **Python Django Developer**:
+
+- Build and deploy full-stack web apps
+- Design REST APIs with Django Rest Framework
+- Optimize code for performance and scalability
+- Collaborate with teams to ship clean, testable code
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
